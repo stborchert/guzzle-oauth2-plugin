@@ -1,5 +1,3 @@
-![logo](http://www.sainsburys.co.uk/homepage/images/sainsburys.png)
-
 Sainsbury's guzzle-oauth2-plugin
 ================================
 
